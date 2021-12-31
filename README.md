@@ -1,5 +1,7 @@
 # BADS7105_CRM_Analytics
 
+Index Link สามารถ link ไปยังงานต่างๆได้ตาม link ด้านล่างครับ 
+
 [HW1-CLV-DashBoard](https://github.com/bencoldheart/BADS7105_CRM_Analytics/blob/main/HW1-CLV-DashBoard/Supermarket_Bank.pdf)
 
 [HW2-customer segmetation](https://github.com/bencoldheart/BADS7105_CRM_Analytics/blob/main/HW2-customer%20segmetation/Customer_segmentation_6220412017.ipynb)
